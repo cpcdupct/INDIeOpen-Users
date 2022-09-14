@@ -1,11 +1,14 @@
 # INDIeOpen-Users
+
+This is the repository for one of the components of the INDIeOpen architecture, that was created during the projects INDIe (2018-1-ES01-KA201-050924) and INDIe4All (2020-1-ES01-KA201-083177), co-funded by the Erasmus+ Programme of the European Union. INDIe (http://indieproject.eu).
+
 ## INDIeOpen Architecture
 
 <img src="architecture-users.jpg">
 
 ## Creators and contributors
 
-CDN files have been created at the **Digital Content Creation Center** (CPCD), in the Universidad Politécnica de Cartagena.
+User component files have been created at the **Digital Content Creation Center** (CPCD), in the Universidad Politécnica de Cartagena.
 
 ## License
 
